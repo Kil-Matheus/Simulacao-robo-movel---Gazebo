@@ -1,0 +1,3 @@
+[console_scripts]
+turtle = pacote_kil:hello_world
+

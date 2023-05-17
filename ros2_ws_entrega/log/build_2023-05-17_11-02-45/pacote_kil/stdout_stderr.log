@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/pacote_kil/pacote_kil.egg-info/PKG-INFO
+writing dependency_links to ../../build/pacote_kil/pacote_kil.egg-info/dependency_links.txt
+writing entry points to ../../build/pacote_kil/pacote_kil.egg-info/entry_points.txt
+writing requirements to ../../build/pacote_kil/pacote_kil.egg-info/requires.txt
+writing top-level names to ../../build/pacote_kil/pacote_kil.egg-info/top_level.txt
+reading manifest file '../../build/pacote_kil/pacote_kil.egg-info/SOURCES.txt'
+writing manifest file '../../build/pacote_kil/pacote_kil.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pacote_kil/__init__.py -> /home/inteli_kil/ros2_ws_entrega/build/pacote_kil/build/lib/pacote_kil
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+copying /home/inteli_kil/ros2_ws_entrega/build/pacote_kil/build/lib/pacote_kil/__init__.py -> /home/inteli_kil/ros2_ws_entrega/install/pacote_kil/lib/python3.10/site-packages/pacote_kil
+byte-compiling /home/inteli_kil/ros2_ws_entrega/install/pacote_kil/lib/python3.10/site-packages/pacote_kil/__init__.py to __init__.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/inteli_kil/ros2_ws_entrega/install/pacote_kil/lib/python3.10/site-packages/pacote_kil-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/pacote_kil/pacote_kil.egg-info to /home/inteli_kil/ros2_ws_entrega/install/pacote_kil/lib/python3.10/site-packages/pacote_kil-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle script to /home/inteli_kil/ros2_ws_entrega/install/pacote_kil/lib/pacote_kil
+writing list of installed files to '/home/inteli_kil/ros2_ws_entrega/build/pacote_kil/install.log'
