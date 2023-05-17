@@ -111,7 +111,7 @@ Para configurar o ambiente corretamente, primeiramente abrimos a aplicação e v
 
 Primeiro precisamos acessar o "Insert"
 <center>
-<img  src="img\gazebo.png"  alt="Gazebo"  />
+<img  src="img\objeto_gazebo.png"  alt="Gazebo"  />
 </center>
 
 **<font  size=2> Figura 4 — Gazebo, Autoria Própria </font>**
@@ -127,7 +127,7 @@ Depois acessamos o "Add Path", na qual vai abrir um janela para selecionar um di
 E após indicar o diretório, agora podemos instanciar um objeto no mundo.
 
 <center>
-<img  src="img\objeto_gazebo.png"  alt="Objeto Gazebo"  />
+<img  src="img\gazebo.png"  alt="Objeto Gazebo"  />
 </center>
 
 **<font  size=2> Figura 6 — Objeto Gazebo, Autoria Própria </font>**
